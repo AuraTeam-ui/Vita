@@ -19,3 +19,9 @@ Medical app for:
 ---
 
 **Google Drive Link:** [Click Here](https://drive.google.com/drive/folders/1hFy7oPUiiA3y_wIZfzLY7vmb0ygWCSS1?usp=sharing)
+
+---
+
+## Plan
+
+![Uploading WhatsApp Image 2025-09-25 at 17.07.05_31742022.jpg…]()
