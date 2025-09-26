@@ -19,3 +19,9 @@ Medical app for:
 ---
 
 **Google Drive Link:** [Click Here](https://drive.google.com/drive/folders/1hFy7oPUiiA3y_wIZfzLY7vmb0ygWCSS1?usp=sharing)
+
+---
+
+## 📅 Project Plan
+
+![WhatsApp Image 2025-09-25 at 17 07 05_0fb8d65a](https://github.com/user-attachments/assets/1be38459-cf18-4c23-8cea-267c9cf7bd42)
