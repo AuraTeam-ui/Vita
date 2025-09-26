@@ -24,4 +24,13 @@ Medical app for:
 
 ## 📅 Project Plan
 
-![WhatsApp Image 2025-09-25 at 17 07 05_0fb8d65a](https://github.com/user-attachments/assets/1be38459-cf18-4c23-8cea-267c9cf7bd42)
+### 🎯 UX
+- **Omar Ahmed** → 5W & How Might We  
+- **Rowida Osama & Mohammed Magdy** → Persona  
+- **Aya Khaled** → Empathy Map  
+- **Ola Aboelftoh & Mohammed Ashraf** → User Flow  
+
+### 🎨 UI
+- **Mohammed Ashraf & Omar Ahmed** → Sketch  
+- **Aya Khaled & Rowida Osama** → Mid Wireframe  
+- **Ola Aboelftoh & Mohammed Magdy** → Visual Design  
